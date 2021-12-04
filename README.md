@@ -4,7 +4,7 @@
 ##### 🎭  Fun fact: I love theatre and cats.
 ![cat-computer](https://user-images.githubusercontent.com/89673020/144691623-4416aa72-7d75-4e0b-a616-5d5e57097085.png)
 
-
+###### <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 <!--
 **ClareMcDonald/ClareMcDonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
