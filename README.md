@@ -2,7 +2,8 @@
 ##### 🌱  I’m currently learning full stack JavaScript at Alchemy Code Lab
 ##### 📫  How to reach me: clare.s.mcdonald@gmail.com
 ##### 🎭  Fun fact: I love theatre and cats.
-![cat-computer](https://user-images.githubusercontent.com/89673020/144691485-c777d5df-5341-42ee-ad89-d20f025360da.png)
+![cat-computer](https://user-images.githubusercontent.com/89673020/144691623-4416aa72-7d75-4e0b-a616-5d5e57097085.png)
+
 
 
 <!--
