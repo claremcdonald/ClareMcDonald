@@ -2,6 +2,9 @@
 ##### 🌱  I’m currently learning full stack JavaScript at Alchemy Code Lab
 ##### 📫  How to reach me: clare.s.mcdonald@gmail.com
 ##### 🎭  Fun fact: I love theatre and cats.
+![cat-computer](https://user-images.githubusercontent.com/89673020/144691485-c777d5df-5341-42ee-ad89-d20f025360da.png)
+
+
 <!--
 **ClareMcDonald/ClareMcDonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
