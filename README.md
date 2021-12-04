@@ -1,4 +1,4 @@
-### Hi there, I'm Clare, and this is my GitHub profile 👋
+### Hi there! I'm Clare, and this is my GitHub profile 👋🏻
 #### 🌱 I’m currently learning full stack JavaScript at Alchemy Code Lab
 #### 📫 How to reach me: clare.s.mcdonald@gmail.com
 #### 🎭 Fun fact: I love theatre and cats.
