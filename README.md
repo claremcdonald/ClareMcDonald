@@ -2,11 +2,9 @@
 ##### 🌱  I’m currently learning full stack JavaScript at Alchemy Code Lab
 ##### 📫  How to reach me: clare.s.mcdonald@gmail.com
 ##### 🎭  Fun fact: I love theatre and cats.
-![cat-computer](https://user-images.githubusercontent.com/89673020/144691623-4416aa72-7d75-4e0b-a616-5d5e57097085.png)
+![cat-laptop outline](https://user-images.githubusercontent.com/89673020/145473462-ea4eab43-dcb2-4bfe-97df-f9eba0f38fb1.png)
 
-###### <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-
-#### <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>![cat-laptop outline](https://user-images.githubusercontent.com/89673020/145473462-ea4eab43-dcb2-4bfe-97df-f9eba0f38fb1.png)
+#### <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 <!--
 **ClareMcDonald/ClareMcDonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
