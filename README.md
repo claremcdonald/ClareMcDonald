@@ -6,7 +6,7 @@
 ![clare-at-computer](https://user-images.githubusercontent.com/89673020/150880790-5a01dbbb-1609-45c2-9f1d-4e5a4241d8af.jpeg)
 
 
-#### <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+#### <div>Illustration by TechAddictions on Etsy</div>
 
 <!--
 **ClareMcDonald/ClareMcDonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
