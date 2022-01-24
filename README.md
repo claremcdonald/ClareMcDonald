@@ -2,7 +2,8 @@
 ##### 🌱  I’m currently learning full stack JavaScript at Alchemy Code Lab
 ##### 🌙  Pronouns: she/her
 ##### 🎭  Fun fact: I love theatre and cats.
-![clare-at-computer](https://user-images.githubusercontent.com/89673020/150880712-de09fab6-f941-45c3-8dcd-42c0c737d700.jpeg)
+
+![clare-at-computer](https://user-images.githubusercontent.com/89673020/150880790-5a01dbbb-1609-45c2-9f1d-4e5a4241d8af.jpeg)
 
 
 #### <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
