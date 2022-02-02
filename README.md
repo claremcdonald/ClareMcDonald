@@ -1,5 +1,5 @@
 ### Hi there! I'm Clare, and this is my GitHub profile 👋🏻
-##### 👩🏻‍💻 I'm a full-stack software developer.
+##### 👩🏻‍💻  I'm a full-stack software developer.
 ##### 🌱  I’m currently learning at Alchemy Code Lab.
 ##### 🌙  Pronouns: she/her
 ##### 🎭  Fun fact: I love theatre and cats.
