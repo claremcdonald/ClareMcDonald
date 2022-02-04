@@ -1,6 +1,6 @@
 ### Hi there! I'm Clare, and this is my GitHub profile 👋🏻
 ##### 👩🏻‍💻  I'm a full-stack software developer who strives to create clean solutions in code in order to solve human-centered problems. With a background in acting and not-for-profit arts management, I bring my creativity, collaboration, and dependability to my work as a developer. 
-##### 🧰 I use: Languages: JavaScript, HTML, CSS | Libraries: React • Databases: Supabase | Tools: Git, Slack, GitHub, Netlify | Dev Practices: TDD, Pair and Mob Programming
+##### 🧰 I use: Languages: JavaScript, HTML, CSS | Libraries: React | Databases: Supabase | Tools: Git, Slack, GitHub, Netlify | Dev Practices: TDD, Pair and Mob Programming
 ##### 🌱  I’m currently learning at Alchemy Code Lab.
 ##### 🌙  Pronouns: she/her
 ##### 🎭  Fun fact: I love theatre and cats.
