@@ -2,7 +2,7 @@
 ##### 👩🏻‍💻  I'm a full-stack software developer with an enthusiastic curiosity, strong empathy, and the desire to use clean code to solve human-centered problems. I bring with me a background in arts management and theatre, which has given me a knack for creativity, collaboration, and dependability. I look forward to continuing to use and grow these skills as a software developer. 
 
 ##### 🧰 I use: Languages: JavaScript, HTML, CSS | Frameworks/Libraries: React, Express, Node | Databases: PostgreSQL, Supabase | Tools: Git, Slack, GitHub, Netlify, Heroku, VSCode | Dev Practices: TDD, Pair and Mob Programming
-##### 🌱  I’m currently learning at Alchemy Code Lab.
+##### 💼  I’m currently a Software Engineer Teaching Assistant at Alchemy Code Lab.
 ##### 🌙  Pronouns: she/her
 ##### 🎭  Fun fact: I love theatre and cats.
 
